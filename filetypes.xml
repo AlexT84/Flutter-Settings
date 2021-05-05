@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="rounded_text_form.dart" type="PLAIN_TEXT" />
       <mapping pattern="colect_email_page.dart" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
