@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="rounded_text_form.dart" type="PLAIN_TEXT" />
-      <mapping pattern="colect_email_page.dart" type="PLAIN_TEXT" />
+      <removed_mapping pattern="colect_email_page.dart" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="rounded_text_form.dart" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
